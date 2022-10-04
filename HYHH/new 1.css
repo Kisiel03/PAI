@@ -1,0 +1,53 @@
+#pierwszy
+{
+    border-top: 60px solid #94CDFF;
+    height: 300px;
+    width: 100%;
+    margin: 0px auto;
+
+}
+ 
+a
+{
+    border: 2px purple solid;
+    background: orange;
+    margin: 1px;
+    padding: 1px;
+    position: relative;
+    top: -250px;
+
+}
+ 
+#drugi
+{
+    text-align: center;
+    float: center;
+}
+ 
+a:hover
+{
+
+    background: brown;
+    color: black;
+}
+ 
+h1
+{
+    background: #2f202061;
+    height: 50px;
+    width: 85px;
+}
+ 
+#srodek
+{
+    background-color: #728FCE;
+    height: 600px;
+    width: 900px;
+    margin: 67px auto;;
+}
+ 
+#czwarty
+{
+    border-bottom: 60px solid #94CDFF;
+}
+ 
